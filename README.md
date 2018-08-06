@@ -1,5 +1,3 @@
-#using ajax in laravel 5 form request error handling
-<article id="post-30" class="post-30 post type-post status-publish format-standard hentry category-coding tag-ajax tag-error-handling tag-laravel-5">
 <header class="entry-header">
 <h1 class="entry-title">Using AJAX In Laravel 5 With Form Request Error Handling</h1> </header>
 <div class="entry-content">
